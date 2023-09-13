@@ -3,3 +3,8 @@ Methyluridine (m5U) is a vital modified nucleoside in RNA, particularly abundant
 
 # Data Flow Diagram
 ![5mU-model](https://github.com/waleed551/Deep-m5U/assets/84854489/6c777606-3623-4cba-8bc2-09849e06b0ad)
+
+# Requirements 
+Python_version 3.7.12
+Tensorflow and Keras version 2.10.0
+Numpy version 1.21.6
